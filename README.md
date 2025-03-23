@@ -1,7 +1,7 @@
 # 2025-ml-study
 pnu 2025 ml study 
 
-##스터디 계획
+## 스터디 계획
 
 <table>
   <tr>
@@ -26,6 +26,8 @@ pnu 2025 ml study
   </tr>
   <tr>
     <td>~시험기간~</td>
+    <td>다들 화이팅~</td>
+    <td></td>
   </tr>
   <tr>
     <td>week07(4.28 ~ 5.4)</td>
