@@ -41,7 +41,7 @@ pnu 2025 ml study
   </tr>
   <tr>
     <td>week09(5.12 ~ 5.18)</td>
-    <td>chapter8: 이미지를 위한 인공 신경망</td>
+    <td>chapter9: 텍스트를 위한 인공 신경망</td>
     <td>최재원</td>
   </tr>
 </table>
