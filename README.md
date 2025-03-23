@@ -10,6 +10,11 @@ pnu 2025 ml study
     <td>발표자</td>
   </tr>
   <tr>
+    <td>week01(3.17 ~ 3.23)</td>
+    <td>chapter1-3: 머신러닝&데이터</td>
+    <td>이서준</td>
+  </tr>
+  <tr>
     <td>week02(3.24 ~ 3.30)</td>
     <td>chapter4: 분류 알고리즘</td>
     <td>김지민</td>
