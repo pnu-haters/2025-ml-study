@@ -37,11 +37,11 @@ pnu 2025 ml study
   <tr>
     <td>week08(5.5 ~ 5.11)</td>
     <td>chapter8: 이미지를 위한 인공 신경망</td>
-    <td>나예은</td>
+    <td>김지민</td>
   </tr>
   <tr>
     <td>week09(5.12 ~ 5.18)</td>
     <td>chapter9: 텍스트를 위한 인공 신경망</td>
-    <td>최재원</td>
+    <td>나예은</td>
   </tr>
 </table>
